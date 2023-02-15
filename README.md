@@ -1,4 +1,4 @@
-﻿## 안녕하세요, **김지윤**입니다!
+## 안녕하세요, 김지윤입니다!
 
 <br>
 
@@ -17,9 +17,13 @@
 
 <br>
 
-**etc**
+**ETC**
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+<br>
+
+📗 [Portfolio](https://jiyun-portfolio.notion.site/JIYUN-KIM-s-20ebcbd0280f47cd9a2a30137fca2ef9)
 
 <br>
 <br>
