@@ -26,8 +26,3 @@
 
 📗 [Portfolio](https://jiyun-portfolio.notion.site/JIYUN-KIM-s-20ebcbd0280f47cd9a2a30137fca2ef9)
 
-<br>
-<br>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jiyun-Kim-5017&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jiyun-Kim-5017&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
